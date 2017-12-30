@@ -1,8 +1,8 @@
 {
-    "title": "One Page Wonder",
-    "name": "startbootstrap-one-page-wonder",
+    "title": "Gubbala Madhuri",
+    "name": "madzzie-portfolio",
     "version": "4.0.0-beta",
-    "description": "A one page HTML template built with Bootstrap",
+    "description": "Madhuri's Portfolio",
     "keywords": [
         "css",
         "sass",
@@ -11,19 +11,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/one-page-wonder",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "http://madzzie.github.io",
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Gubbala Madhuri",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-one-page-wonder.git"
+        "url": "https://github.com/madzzie/madzzie.github.io.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-alpha.6",
